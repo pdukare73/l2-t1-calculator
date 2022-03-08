@@ -1,1 +1,1 @@
-# l2-t1-calculator
+# calculator-using-html-css-javascript
